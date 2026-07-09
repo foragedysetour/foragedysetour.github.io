@@ -68,7 +68,7 @@ export const sponsorConfig: SponsorConfig = {
 		// 	date: "2025-10-01",
 		// },
 
-		// // 示例：匿名打赏者
+		// 示例：匿名打赏者
 		// {
 		// 	name: "匿名用户",
 		// 	// avatar: "",
